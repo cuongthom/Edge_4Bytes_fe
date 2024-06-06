@@ -1,0 +1,96 @@
+.css-1kvvgjv-MuiSvgIcon-root-MuiSelect-icon {
+    display: block !important;
+}
+
+.css-2wa4wo-MuiInputBase-input {
+    height: 1.4375em !important;
+}
+
+.css-s5a1wp-MuiDrawer-docked .MuiDrawer-paper {
+    background-color: #fafafa !important;
+}
+
+.example:hover {
+    background-color: rgb(40, 218, 171) !important;
+}
+
+.example:hover h5 {
+    color: #fafafa !important;
+}
+
+.example:hover span {
+    color: #fafafa !important;
+}
+
+.information-container {
+    display: none !important;
+}
+
+.scheme-container {
+    margin-top: 20px !important;
+    border-radius: 20px;
+    box-shadow: 0 1px 10px 0 rgba(0, 0, 0, .15) !important;
+}
+
+.swagger-ui .btn.authorize {
+    color: #000 !important;
+    border-color: #000 !important;
+}
+
+.swagger-ui .btn.authorize>svg {
+    fill: #000 !important;
+}
+
+.swagger-ui .opblock-tag {
+    border: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.swagger-ui .opblock-tag-section {
+    margin-top: 50px;
+}
+
+.swagger-ui .opblock-tag.no-desc span {
+    font-weight: 600;
+    font-size: 0.9em !important;
+}
+
+.swagger-ui .opblock.opblock-get {
+    margin-top: 15px !important;
+    background-color: white !important;
+    border-color: white !important;
+    border-radius: 20px;
+}
+
+.swagger-ui .opblock.opblock-post {
+    margin-top: 15px !important;
+    background-color: white !important;
+    border-color: white !important;
+    border-radius: 20px;
+}
+
+.swagger-ui .opblock.opblock-put {
+    margin-top: 15px !important;
+    background-color: white !important;
+    border-color: white !important;
+    border-radius: 20px;
+}
+
+.swagger-ui .opblock.opblock-delete {
+    margin-top: 15px !important;
+    background-color: white !important;
+    border-color: white !important;
+    border-radius: 20px;
+}
+
+.swagger-ui .opblock .opblock-summary-method {
+    min-width: 60px !important;
+    padding: 5px !important;
+    border-radius: 15px !important;
+    font-size: 14px !important;
+}
+
+.swagger-ui .wrapper {
+    max-width: none !important;
+}
